@@ -1,0 +1,12 @@
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.csproj.AssemblyReference.cache
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.AssemblyInfoInputs.cache
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.AssemblyInfo.cs
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.csproj.CoreCompileInputs.cache
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\bin\Debug\net6.0\PROJETO-TESTE-BET2.deps.json
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\bin\Debug\net6.0\PROJETO-TESTE-BET2.dll
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\bin\Debug\net6.0\ref\PROJETO-TESTE-BET2.dll
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\bin\Debug\net6.0\PROJETO-TESTE-BET2.pdb
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.dll
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\ref\PROJETO-TESTE-BET2.dll
+C:\Users\ricun\source\repos\PROJETO-TESTE-BET2\PROJETO-TESTE-BET2\obj\Debug\net6.0\PROJETO-TESTE-BET2.pdb
